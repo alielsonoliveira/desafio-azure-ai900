@@ -1,8 +1,4 @@
 # desafio-azure-ai900
-Primeiro desafio do bootcamp Microsoft Azure AI Fundamentals
-
-Eu estou usando o GitHub e dentro do readme está assim:
-# desafio-azure-ai900
 #Primeiro desafio do bootcamp Microsoft Azure AI Fundamentals
 
 Um modelo de previsão é uma representação matemática ou estatística que é desenvolvida com o objetivo de fazer previsões ou estimativas sobre eventos futuros com base em dados históricos ou padrões identificados. Esses modelos são frequentemente usados em diversas áreas, incluindo ciência de dados, aprendizado de máquina, estatísticas e análise de negócios.
